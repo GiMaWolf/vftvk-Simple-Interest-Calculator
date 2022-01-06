@@ -1,6 +1,4 @@
-function compute()
-{
-    p = document.getElementById("principal").value;
-    
+function compute() {
+    document.getElementById("result").innerText = "Ergebnis";
+
 }
-        
