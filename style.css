@@ -17,3 +17,13 @@ h1 {
     border-radius: 25px;
     margin: 0 auto;
 }
+
+.griddiv {
+    display: grid;
+    grid-column-gap: 5px;
+    grid-template-columns: auto auto;
+}
+
+.griditem {
+    margin-bottom: 15px;
+}
